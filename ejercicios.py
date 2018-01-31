@@ -1,3 +1,4 @@
-if type(error) == IndentationError:
-	print "¡Éste código está mal formateado! Formatéalo"
-return True
+comida=130
+impuesto=0.21
+propina=0.15
+total=comida+impuesto*comida
